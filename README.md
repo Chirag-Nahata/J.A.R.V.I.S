@@ -1,1 +1,1 @@
-# J.A.R.V.I.S - AI Jarvis Using Neutral Netwirk , Machine Learning , Deep Learning ,Natural language Processing
+# J.A.R.V.I.S - AI Jarvis Using Neutral Network , Machine Learning , Deep Learning ,Natural language Processing
