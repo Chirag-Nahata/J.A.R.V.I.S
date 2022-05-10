@@ -1,0 +1,41 @@
+{
+    "intents":[
+        {
+            "tag":"hello",
+            "patterns":["hello","hii","hey"
+            ],
+            "responses":["Hello Sir :)",
+                "Hey, I Was Really Waiting For Your Presence.",
+                "Hey, I Was Literally Waiting For Your Presence.",
+                "Hey, I Was Waiting For Your Presence.",
+                "Hey, I Was Waiting For You.",
+                "Hello, I Was Waiting For You.",
+                "Hello Sir. Nice Meeting You Again.",
+                "Hello Sir. Nice To Meet You.",
+                "Hello.",
+                "Hey What's Up Sir."
+            ]
+        },
+        {
+            "tag":"bye",
+            "patterns":["bye","goodbye","see you later","sleep","exit"
+            ],
+            "responses":["Bye.",
+                "Are You Sure ?",
+                "I am Jarvis & Here's My Byee.",
+                "Bye Sir, I Will Be There For You Again.",
+                "Sir, Good Bye",
+                "Sir, It'll be Nice To Meet You Again.",
+                "See You Later Sir."
+            ]
+        },
+        {
+            "tag":"HAALCHAL",
+            "patterns":["how are you","fine"
+            ],
+            "responses":["I'm Fine",
+                "Fine!!"
+            ]
+        }
+    ]
+}
